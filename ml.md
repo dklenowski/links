@@ -12,3 +12,9 @@ https://rajpurkar.github.io/SQuAD-explorer/
 ## Bad Words
 
 http://www.cs.cmu.edu/~biglou/resources/bad-words.txt
+
+# Code
+
+## RBM implementation in python
+
+https://github.com/echen/restricted-boltzmann-machines
