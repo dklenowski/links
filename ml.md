@@ -9,11 +9,17 @@ https://rajpurkar.github.io/SQuAD-explorer/
 
 # Word Lists
 
+http://www.nltk.org/howto/wordnet.html
+
 ## Bad Words
 
 http://www.cs.cmu.edu/~biglou/resources/bad-words.txt
 
 # Theory
+
+## Introduction
+
+http://colah.github.io/
 
 ## Restricted Boltzmann Machines
 
