@@ -10,3 +10,7 @@ https://www.theverge.com/
 # Future
 
 https://futurism.com/
+
+# Misc
+
+https://qz.com/
