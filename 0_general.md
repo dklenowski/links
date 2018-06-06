@@ -11,6 +11,4 @@ https://www.theverge.com/
 
 https://futurism.com/
 
-# Misc
 
-https://qz.com/
