@@ -4,8 +4,8 @@ http://www.eurekalert.org/
 
 # Tech
 
-https://venturebeat.com/
-https://www.theverge.com/
+- https://venturebeat.com/
+- https://www.theverge.com/
 
 # Future
 
