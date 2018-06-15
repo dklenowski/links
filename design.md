@@ -6,6 +6,7 @@
 
 - https://uigradients.com/#Blooker20
 - https://www.materialpalette.com/
+- https://material.io/design/color/the-color-system.html#color-theme-creation
 
 # Predictions
 
