@@ -17,3 +17,7 @@ https://mattwest.io/the-future-of-web-forms
 
 - https://medium.com/@multidots/the-latest-in-mobile-app-trends-2017-wheres-the-app-ecosystem-heading-cadd1e7c8709
 - https://www.smashingmagazine.com/2018/02/comprehensive-guide-to-mobile-app-design/
+
+# Art/Photograpy
+
+- https://www.frank-kunert.de/
